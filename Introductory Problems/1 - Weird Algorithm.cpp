@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
 
-void weirdAlgorithm(int n)
-{
+void weirdAlgorithm(int x)
+{   long long n = x;
     while(n != 1)
     {
         cout<<n<<" ";
